@@ -21,6 +21,7 @@ A sophisticated search engine for the Flickr8k dataset that combines both **visu
 ```bash
 git clone https://github.com/your-username/multimodal-search-engine.git
 cd multimodal-search-engine
+```
 
 Requirements
 Python 3.8+
